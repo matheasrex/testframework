@@ -1,0 +1,8 @@
+#log files
+Tmp/log/*
+
+#Unit test report output
+Test/Unit/report
+
+#database config file
+Config/db.php
